@@ -1,0 +1,10 @@
+{
+  "lookback": 96,
+  "horizon": 4,
+  "frequency_minutes": 15,
+  "train_rows": 95678,
+  "validation_end_row": 116181,
+  "test_rows": 20503,
+  "test_mae_kw": 0.4038149416446686,
+  "test_rmse_kw": 0.5917917887151217
+}
